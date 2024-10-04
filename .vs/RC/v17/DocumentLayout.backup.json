@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|d:\\hk7_2024\\nosql\\rc-main\\rc\\rc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|D:\\HK7_2024\\NoSQL\\RC-main\\RC\\rc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|D:\\HK7_2024\\NoSQL\\RC-main\\RC\\rc\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|D:\\HK7_2024\\NoSQL\\RC-main\\RC\\rc\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|D:\\HK7_2024\\NoSQL\\RC-main\\RC\\rc\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|d:\\hk7_2024\\nosql\\rc-main\\rc\\rc\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|D:\\HK7_2024\\NoSQL\\RC-main\\RC\\rc\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|d:\\hk7_2024\\nosql\\rc-main\\rc\\rc\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formcheckout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|d:\\hk7_2024\\nosql\\rc-main\\rc\\rc\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|d:\\hk7_2024\\nosql\\rc-main\\rc\\rc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|d:\\hk7_2024\\nosql\\rc-main\\rc\\rc\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656026B3-B83F-4148-889F-474F1A3FA1C3}|RC\\RC.csproj|solutionrelative:rc\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormMain.cs",
+              "RelativeDocumentMoniker": "RC\\FormMain.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormMain.cs [Design]",
+              "RelativeToolTip": "RC\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:23:30.594Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs [Design]",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormRegister.cs",
+              "RelativeDocumentMoniker": "RC\\FormRegister.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormRegister.cs [Design]",
+              "RelativeToolTip": "RC\\FormRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:35:39.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formcheckout.cs [Design]",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\Formcheckout.cs",
+              "RelativeDocumentMoniker": "RC\\Formcheckout.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\Formcheckout.cs [Design]",
+              "RelativeToolTip": "RC\\Formcheckout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:37:41.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormMain.cs",
+              "RelativeDocumentMoniker": "RC\\FormMain.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormMain.cs",
+              "RelativeToolTip": "RC\\FormMain.cs",
+              "ViewState": "AgIAAPIBAAAAAAAAAAAswBICAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:31:30.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormLogin.cs",
+              "RelativeDocumentMoniker": "RC\\FormLogin.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormLogin.cs [Design]",
+              "RelativeToolTip": "RC\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:13:07.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormManager.cs",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormManager.cs",
+              "RelativeDocumentMoniker": "RC\\FormManager.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormManager.cs",
+              "RelativeToolTip": "RC\\FormManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAswEAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:06:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormManager.cs [Design]",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormManager.cs",
+              "RelativeDocumentMoniker": "RC\\FormManager.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormManager.cs [Design]",
+              "RelativeToolTip": "RC\\FormManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:36:12.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Formcheckout.cs",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\Formcheckout.cs",
+              "RelativeDocumentMoniker": "RC\\Formcheckout.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\Formcheckout.cs",
+              "RelativeToolTip": "RC\\Formcheckout.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwDMAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:37:45.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormLogin.cs",
+              "RelativeDocumentMoniker": "RC\\FormLogin.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormLogin.cs",
+              "RelativeToolTip": "RC\\FormLogin.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T10:14:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\Program.cs",
+              "RelativeDocumentMoniker": "RC\\Program.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\Program.cs",
+              "RelativeToolTip": "RC\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:34:55.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormRegister.cs",
+              "RelativeDocumentMoniker": "RC\\FormRegister.cs",
+              "ToolTip": "D:\\HK7_2024\\NoSQL\\RC-main\\RC\\RC\\FormRegister.cs",
+              "RelativeToolTip": "RC\\FormRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T03:35:02.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
